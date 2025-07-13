@@ -1,0 +1,133 @@
+[
+  {
+    "image": "rook_black",
+    "field": "a8"
+  },
+  {
+    "image": "knight_black",
+    "field": "b8"
+  },
+  {
+    "image": "bishop_black",
+    "field": "c8"
+  },
+  {
+    "image": "queen_black",
+    "field": "d8"
+  },
+  {
+    "image": "king_black",
+    "field": "e8"
+  },
+  {
+    "image": "bishop_black",
+    "field": "f8"
+  },
+  {
+    "image": "knight_black",
+    "field": "g8"
+  },
+  {
+    "image": "rook_black",
+    "field": "h8"
+  },
+
+  {
+    "image": "pawn_black",
+    "field": "a7"
+  },
+  {
+    "image": "pawn_black",
+    "field": "b7"
+  },
+  {
+    "image": "pawn_black",
+    "field": "c7"
+  },
+  {
+    "image": "pawn_black",
+    "field": "d7"
+  },
+  {
+    "image": "pawn_black",
+    "field": "e7"
+  },
+  {
+    "image": "pawn_black",
+    "field": "f7"
+  },
+  {
+    "image": "pawn_black",
+    "field": "g7"
+  },
+  {
+    "image": "pawn_black",
+    "field": "h7"
+  },
+
+  {
+    "image": "pawn_white",
+    "field": "a2"
+  },
+  {
+    "image": "pawn_white",
+    "field": "b2"
+  },
+  {
+    "image": "pawn_white",
+    "field": "c2"
+  },
+  {
+    "image": "pawn_white",
+    "field": "d2"
+  },
+  {
+    "image": "pawn_white",
+    "field": "e2"
+  },
+  {
+    "image": "pawn_white",
+    "field": "f2"
+  },
+  {
+    "image": "pawn_white",
+    "field": "g2"
+  },
+  {
+    "image": "pawn_white",
+    "field": "h2"
+  },
+
+  {
+    "image": "rook_white",
+    "field": "a1"
+  },
+  {
+    "image": "knight_white",
+    "field": "b1"
+  },
+  {
+    "image": "bishop_white",
+    "field": "c1"
+  },
+  {
+    "image": "queen_white",
+    "field": "d1"
+  },
+  {
+    "image": "king_white",
+    "field": "e1"
+  },
+  {
+    "image": "bishop_white",
+    "field": "f1"
+  },
+  {
+    "image": "knight_white",
+    "field": "g1"
+  },
+  {
+    "image": "rook_white",
+    "field": "h1"
+  }
+]

@@ -1,0 +1,3 @@
+Züge bisher: {moves}
+FEN: {setup}
+Legale Züge: {legal_moves}
