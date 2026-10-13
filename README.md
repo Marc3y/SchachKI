@@ -4,6 +4,8 @@
 
 **Schach spielen gegen eine KI**
 
+> Das Projekt ist nicht aktuell
+
 Ein Schulprojekt (GFS), bei dem ein KI-Modell der Schachgegner ist.
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
