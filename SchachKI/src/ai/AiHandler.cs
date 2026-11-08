@@ -7,8 +7,7 @@ namespace SchachKI.src.ai
 {
     public class AiHandler
     {
-        //TODO api key sicherer speichern
-        private const string API_KEY = "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";//"AIzaSyCJbnukFLAdYgRDoEXwuevuRwjgsksUe1E";
+        private static readonly string API_KEY = Environment.GetEnvironmentVariable("OPENAI_API_KEY") ?? "";
         private string _conversationId;
         private ChatGpt _bot;
         private Difficulty _difficulty;
